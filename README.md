@@ -10,7 +10,7 @@ Clone the repository:
 
 ```bash
 
-git clone https://github.com/navya-1007/rock-scissor-paper.git
+git clone https://github.com/madhumathi0312/Rock_paper_scissor.git
 cd rock-scissor-paper
 ```
 
